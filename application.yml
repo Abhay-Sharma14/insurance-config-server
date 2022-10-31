@@ -1,0 +1,4 @@
+db:
+  connection: "{connection:'https://....',username:'ABhay',password:'password'}"
+  host: localhost
+  port: 8888
